@@ -11,6 +11,7 @@
     "react-native": "0.49.3",
     "react-native-elements": "^0.17.0",
     "react-native-maps": "^0.17.0",
+    "react-native-popup-dialog": "^0.9.36",
     "react-native-vector-icons": "^4.4.2"
   },
   "devDependencies": {
